@@ -1,15 +1,15 @@
 # ComfyUI-Pixverse-AI-V2
 # Creado por IA(Sistema de Interes)
 # 1. Visit [Youtube Channel](https://www.youtube.com/@IA.Sistema.de.Interes)
-#Update: 17/09/25
+#Update: 17/09/25 En esta nueva actualización simplifiqué los nodos en uno solo para cada generación, eliminando las conexiones y errores
 
 Este es un entorno de trabajo no oficial, que esta diseñado para ahorras costos de generacion de videos por IA, utilizando la latafroma Pixverse, como todos sabemos el costo de generar un video tilizando la API
 
-<img width="1502" height="510" alt="image" src="https://raw.githubusercontent.com/systemaiofinterest-wq/ComfyUI-Pixverse-AI/refs/heads/main/texttovideo_comfyui.png" />
+<img width="1502" height="510" alt="image" src="https://raw.githubusercontent.com/systemaiofinterest-wq/ComfyUI-Pixverse-AI-V2/refs/heads/main/t2v.png" />
 
-<img width="1502" height="510" alt="image" src="https://raw.githubusercontent.com/systemaiofinterest-wq/ComfyUI-Pixverse-AI/refs/heads/main/imagetovideo_comfyui.png" />
+<img width="1502" height="510" alt="image" src="https://raw.githubusercontent.com/systemaiofinterest-wq/ComfyUI-Pixverse-AI-V2/refs/heads/main/i2v.png" />
 
-<img width="1502" height="510" alt="image" src="https://raw.githubusercontent.com/systemaiofinterest-wq/ComfyUI-Pixverse-AI/refs/heads/main/extendtovideo_comfyui.png" />
+<img width="1502" height="510" alt="image" src="https://raw.githubusercontent.com/systemaiofinterest-wq/ComfyUI-Pixverse-AI-V2/refs/heads/main/extend.png" />
 
 
 Si usamos la API de comfyUI para general videos:
