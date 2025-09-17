@@ -1,0 +1,8 @@
+requests
+Pillow
+gradio_button_lm
+pixverse-ai-v2
+beautifulsoup4
+oss2
+requests
+opencv-python
