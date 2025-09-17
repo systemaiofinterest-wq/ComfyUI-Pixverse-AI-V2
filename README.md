@@ -1,7 +1,7 @@
 # ComfyUI-Pixverse-AI-V2
 # Creado por IA(Sistema de Interes)
 # 1. Visit [Youtube Channel](https://www.youtube.com/@IA.Sistema.de.Interes)
-#Update: 17/09/25 En esta nueva actualización simplifiqué los nodos en uno solo para cada generación, eliminando las conexiones y errores
+# Update: 17/09/25 En esta nueva actualización simplifiqué los nodos en uno solo para cada generación, eliminando las conexiones y errores
 
 Este es un entorno de trabajo no oficial, que esta diseñado para ahorras costos de generacion de videos por IA, utilizando la latafroma Pixverse, como todos sabemos el costo de generar un video tilizando la API
 
